@@ -1,3 +1,6 @@
+/**
+ * @author Sachindroid
+ */
 public class Encode {
     //Holds the current state of the block being encrypted
     public static byte[][] stateArray;
