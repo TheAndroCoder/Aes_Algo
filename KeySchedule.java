@@ -1,3 +1,6 @@
+/**
+ * @author Sachindroid
+ */
 public class KeySchedule {
     //expanded key array
     public static byte[][] expandedKeyArray=new byte[4][44];
